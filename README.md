@@ -33,7 +33,7 @@ yarn install
 
 
 -🌐 Deployment (Lovable)
--To deploy this project:
+-To deploy this project:  https://cloud-spend-sculptor.lovable.app/
 
 -👉 Simply open Lovable Deployment Page
 -🚀 Click on Share → Publish
