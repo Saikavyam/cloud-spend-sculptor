@@ -16,8 +16,11 @@
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+Clone the repository and install the dependencies:
+
 ```bash
 git clone https://github.com/Saikavyam/cloud-spend-sculptor.git
 cd cloud-spend-sculptor
-
+npm install
+# or
+yarn install
