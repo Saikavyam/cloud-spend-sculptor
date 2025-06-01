@@ -24,12 +24,16 @@ cd cloud-spend-sculptor
 npm install
 # or
 yarn install
-## 🚀 How to Deploy?
-Simply open [Lovable](https://lovable.dev/projects/7970e59b-f53e-4e44-9f9a-c38d4544299d) and click on Share -> Publish.
 
 
-🌐 Deployment (Lovable)
-To deploy this project:
 
-👉 Simply open Lovable Deployment Page
-🚀 Click on Share → Publish
+**
+## 🚀 How to Deploy?**
+-Simply open [Lovable](https://lovable.dev/projects/7970e59b-f53e-4e44-9f9a-c38d4544299d) and click on Share -> Publish.
+
+
+-🌐 Deployment (Lovable)
+-To deploy this project:
+
+-👉 Simply open Lovable Deployment Page
+-🚀 Click on Share → Publish
