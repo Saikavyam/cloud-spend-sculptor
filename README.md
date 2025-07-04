@@ -25,16 +25,7 @@
 | **Deployment** | Lovable (One-click publish)          |
 
 ---
-cloud-spend-sculptor/
-├── src/
-│   ├── components/      # Reusable UI components
-│   ├── pages/           # Route-based pages
-│   ├── styles/          # Global styles
-│   ├── utils/           # Helper functions
-│   └── App.tsx          # Main application
-├── public/              # Static assets
-├── vite.config.ts       # Build configuration
-└── package.json         # Dependencies
+
 
  
 ## 🚀 Quick Start
