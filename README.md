@@ -1,7 +1,5 @@
 # 🌥️ Cloud Spend Sculptor
 
-# 🌥️ Cloud Spend Sculptor
-
 **A modern cloud cost management dashboard** built with cutting-edge web technologies for optimal performance and developer experience.
 
 🔗 **Live Demo**: [https://cloud-spend-sculptor.vercel.app/]
@@ -27,7 +25,18 @@
 | **Deployment** | Lovable (One-click publish)          |
 
 ---
+cloud-spend-sculptor/
+├── src/
+│   ├── components/      # Reusable UI components
+│   ├── pages/           # Route-based pages
+│   ├── styles/          # Global styles
+│   ├── utils/           # Helper functions
+│   └── App.tsx          # Main application
+├── public/              # Static assets
+├── vite.config.ts       # Build configuration
+└── package.json         # Dependencies
 
+ 
 ## 🚀 Quick Start
 
 ### Local Development
@@ -45,3 +54,4 @@ yarn install
 npm run dev
 # or
 yarn dev
+
