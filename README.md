@@ -1,39 +1,47 @@
 # 🌥️ Cloud Spend Sculptor
 
-**Cloud Spend Sculptor** is a modern web app built to visualize and manage cloud expenditure with elegance, speed, and developer-friendly architecture. Powered by cutting-edge technologies like Vite, React, TypeScript, Tailwind CSS, and shadcn-ui, the project offers a clean and high-performance user interface.
+# 🌥️ Cloud Spend Sculptor
+
+**A modern cloud cost management dashboard** built with cutting-edge web technologies for optimal performance and developer experience.
+
+🔗 **Live Demo**: [https://cloud-spend-sculptor.vercel.app/]
+
+
+## ✨ Features
+- Real-time cloud cost visualization
+- Interactive expense breakdown charts
+- Multi-cloud provider support (AWS, GCP, Azure)
+- Responsive design with mobile support
+- Type-safe codebase with TypeScript
 
 ---
 
 ## 🛠️ Tech Stack
 
-- ⚡ **Vite** – Lightning-fast frontend tooling
-- ⚛️ **React** – Powerful component-based UI library
-- 🧠 **TypeScript** – Type-safe JavaScript for scalable apps
-- 🎨 **Tailwind CSS** – Utility-first styling for rapid UI development
-- 🧩 **shadcn/ui** – Accessible and composable UI components built on Radix UI
+| Category        | Technologies                          |
+|----------------|--------------------------------------|
+| **Frontend**   | Vite, React 18, TypeScript 5         |
+| **Styling**    | Tailwind CSS, shadcn/ui              |
+| **State**      | React Context API                    |
+| **Build**      | npm/yarn, ESLint, Prettier           |
+| **Deployment** | Lovable (One-click publish)          |
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Quick Start
 
-Clone the repository and install the dependencies:
-
+### Local Development
 ```bash
+# Clone repository
 git clone https://github.com/Saikavyam/cloud-spend-sculptor.git
 cd cloud-spend-sculptor
+
+# Install dependencies
 npm install
 # or
 yarn install
 
-
-
-**
-## 🚀 How to Deploy?**
--Simply open [Lovable](https://lovable.dev/projects/7970e59b-f53e-4e44-9f9a-c38d4544299d) and click on Share -> Publish.
-
-
--🌐 Deployment (Lovable)
--To deploy this project:  https://cloud-spend-sculptor.lovable.app/
-
--👉 Simply open Lovable Deployment Page
--🚀 Click on Share → Publish
+# Start development server
+npm run dev
+# or
+yarn dev
